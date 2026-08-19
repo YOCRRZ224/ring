@@ -1,5 +1,5 @@
 (async () => {
-    const BASE = "https://yocrrz.is-a.dev/ring";
+    const BASE = "https://yocrrz.likes-ur.mom/ring";
     const HOME_URL = BASE;
 
     if (document.getElementById("devring-widget")) return;
